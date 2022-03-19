@@ -87,4 +87,4 @@ March 2022
 ## References
 
 Rust book\
-https://www.youtube.com/c/LetsGetRusty/videos
+OReily Command-Line Rust
