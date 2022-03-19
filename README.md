@@ -4,9 +4,9 @@
 
 ## Searches file using CLI
 
-The CLI app takes in 2 arguments (1 search, 2 file.txt) and returns the lines that contain that contain the search used
+The CLI app that mimics echo, but written in rust
 
-You have the option for case sensitivity, To use in bash enter:
+You have the option -n to omit newline, To use in bash enter:
 
 ```terminal
 cargo build 
