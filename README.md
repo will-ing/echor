@@ -2,14 +2,14 @@
 
 ---
 
-## Searches file using CLI
+## rust echo using CLI
 
 The CLI app that mimics echo, but written in rust
 
 You have the option -n to omit newline, To use in bash enter:
 
 ```terminal
-cargo build 
+cargo build
 /target/debug/echor -n hello world
 
 or with cargo
